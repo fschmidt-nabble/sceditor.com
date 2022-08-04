@@ -66,3 +66,8 @@ You should normally only include the minified files from the `minified/` directo
 
    * `minified/themes/content/default.min.css`  
      The default CSS used to style the content of the editor. The URL to this file should be passed via the `style` option.
+
+## Icons <a id="cons"></a>
+
+   * `minified/icons/monocons.min.js`
+     Needed for 'monocons' icons to work.
